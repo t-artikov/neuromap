@@ -1,0 +1,14 @@
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+tools/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+*CMakeLists.txt.user
+app/src/main/assets/encoding.data
+app/src/main/assets/network.data

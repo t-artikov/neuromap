@@ -1,0 +1,6 @@
+[submodule "tools/thirdparty/cxxopts"]
+	path = tools/thirdparty/cxxopts
+	url = https://github.com/jarro2783/cxxopts.git
+[submodule "tools/thirdparty/tiny-cuda-nn"]
+	path = tools/thirdparty/tiny-cuda-nn
+	url = https://github.com/t-artikov/tiny-cuda-nn.git
